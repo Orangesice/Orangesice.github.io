@@ -104,7 +104,7 @@ theme: fluid
 deploy:
   deploy:
   type: git
-  repo: https://github.com/Orangesice/Orangesice.github.io.git
+  repo: git@github.com:Orangesice/Orangesice.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
   message: update blog
