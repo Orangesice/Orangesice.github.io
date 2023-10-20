@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-26T03:45:50.613Z</updated>
+  <updated>2023-10-20T13:07:44.588Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,81 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>diary1</title>
-    <link href="http://example.com/2023/09/26/diary1/"/>
-    <id>http://example.com/2023/09/26/diary1/</id>
-    <published>2023-09-26T03:37:48.000Z</published>
-    <updated>2023-09-26T03:45:50.613Z</updated>
+    <title>2023/10/20</title>
+    <link href="http://example.com/2023/10/20/2023-10-20/"/>
+    <id>http://example.com/2023/10/20/2023-10-20/</id>
+    <published>2023-10-20T12:19:23.000Z</published>
+    <updated>2023-10-20T13:07:44.588Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Dairy"><a href="#Dairy" class="headerlink" title="Dairy"></a>Dairy</h1><blockquote><blockquote><p>Today, I join a competation of Codeforces, I felt so bad, so that i only solved one question. And my rank get down. I am very sad!</p></blockquote></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Dairy&quot;&gt;&lt;a href=&quot;#Dairy&quot; class=&quot;headerlink&quot; title=&quot;Dairy&quot;&gt;&lt;/a&gt;Dairy&lt;/h1&gt;&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Today, I join a competation of C</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Orange&#39;s_life</title>
-    <link href="http://example.com/2023/09/24/Orange-s-life/"/>
-    <id>http://example.com/2023/09/24/Orange-s-life/</id>
-    <published>2023-09-24T05:38:07.000Z</published>
-    <updated>2023-09-24T05:41:41.871Z</updated>
-    
-    <content type="html"><![CDATA[<p>Today, I join a competation of the star of BaiDu!</p>]]></content>
+    <content type="html"><![CDATA[<h1>A first look at artificial intelligence</h1><h2 id="first-day">(first day)</h2><p>  Just contact with the content of <strong>artificial intelligence,</strong> often see artificial intelligence, machine learning, deep learning and neural networks of different terms, one by one are very cold, so stupid to distinguish in the end what kind of relationship between them, many times think that it is a thing of different expressions only, after reading some specific introductions only gradually have a general model.</p><p>  What we are currently able to achieve is generally referred to as <strong>“Narrow AI”</strong>. Weak AI is technology that can perform specific tasks as well as, or better than, a human. Examples include image classification on Pinterest, or face recognition on Facebook. These are examples of weak AI in practice. These technologies implement some specific localisation of human intelligence.</p><p>  <strong>Machine Learning (ML)</strong> is a multi-disciplinary cross-discipline involving probability theory, statistics, approximation theory, convex analysis, algorithmic complexity theory and other disciplines.<br>Machine Learning is the core of Artificial Intelligence, is the fundamental way to make computers intelligent, and its application across all fields of Artificial Intelligence, which mainly uses induction and synthesis rather than deduction.<br>At its most basic, machine learning uses algorithms to parse data, learn from it, and then make decisions and predictions about events in the real world.<br>Unlike traditional software programmes that are hard-coded to solve a specific task, machine learning uses large amounts of data to “train” the algorithms to learn how to do the task from the data.</p><p>  There is a difference between machine learning and <strong>deep learning</strong>, which is the ability of a computer’s algorithms to find information in data to learn some patterns, just like a human. Although deep learning is a type of machine learning, deep learning is the use of deep neural networks that process the model to be more complex, so that the model can understand the data more deeply.<br>Deep learning is a method of machine learning based on learning by characterising data. Deep learning is a new field in machine learning research motivated by the creation, simulation of neural networks for analytical learning in the human brain, which mimics the mechanisms of the human brain for interpreting data.</p><p>  <strong>Neural networks</strong> were designed to mimic the processing of the human brain, in the hope that they would operate according to the logic of the human brain (although the human brain is still not well studied as of yet). Neural networks have been around for many years, but are now largely unheard of. According to industry researchers at innov100, neural networks can simply be categorised as single-layer, two-layer, and multi-layer networks. Neural networks had very many problems before, the number of layers could not go too deep, there are too many parameters to be adjusted, the amount of sample data is too small and other problems. In short, it was a technology that was not well received before. Until 2006, Hinton published a paper in Science and related journals, first proposed the concept of “deep belief networks”.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Today, I join a competation of the star of BaiDu!&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/09/20/hello-world/"/>
-    <id>http://example.com/2023/09/20/hello-world/</id>
-    <published>2023-09-20T09:25:32.022Z</published>
-    <updated>2023-09-20T09:25:32.023Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo &lt;i class=&quot;fa-regular fa-arrow-up-right-from-square fa-sm&quot;&gt;&lt;/i&gt;&lt;/a&gt;! This is yo</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>dairy</title>
-    <link href="http://example.com/2023/09/16/dairy/"/>
-    <id>http://example.com/2023/09/16/dairy/</id>
-    <published>2023-09-16T13:33:58.000Z</published>
-    <updated>2023-10-18T07:38:57.001Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="今天学了搭建博客"><a href="#今天学了搭建博客" class="headerlink" title="今天学了搭建博客"></a>今天学了搭建博客</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;今天学了搭建博客&quot;&gt;&lt;a href=&quot;#今天学了搭建博客&quot; class=&quot;headerlink&quot; title=&quot;今天学了搭建博客&quot;&gt;&lt;/a&gt;今天学了搭建博客&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1&gt;A first look at artificial intelligence&lt;/h1&gt;
+&lt;h2 id=&quot;first-day&quot;&gt;(first day)&lt;/h2&gt;
+&lt;p&gt;  Just contact with the content of &lt;strong&gt;artificia</summary>
       
     
     
