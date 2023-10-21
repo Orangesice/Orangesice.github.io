@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-21T03:22:51.909Z</updated>
+  <updated>2023-10-21T03:56:11.434Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2023/10/21</title>
+    <title>Translating Videos to Natural Language Using Deep Recurrent Neural Networks</title>
     <link href="http://example.com/2023/10/21/2023-10-21/"/>
     <id>http://example.com/2023/10/21/2023-10-21/</id>
-    <published>2023-10-21T03:22:13.000Z</published>
-    <updated>2023-10-21T03:22:51.909Z</updated>
+    <published>2023-10-21T03:52:08.000Z</published>
+    <updated>2023-10-21T03:56:11.434Z</updated>
     
-    <content type="html"><![CDATA[<h1></h1>]]></content>
+    <content type="html"><![CDATA[<h2 id="First-day-reading-this-paper">(First day reading this paper)</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1&gt;&lt;/h1&gt;
+    <summary type="html">&lt;h2 id=&quot;First-day-reading-this-paper&quot;&gt;(First day reading this paper)&lt;/h2&gt;
 </summary>
       
     
@@ -38,20 +38,19 @@
   </entry>
   
   <entry>
-    <title>2023/10/20</title>
-    <link href="http://example.com/2023/10/20/A-first-look-at-artificial-intelligence/"/>
-    <id>http://example.com/2023/10/20/A-first-look-at-artificial-intelligence/</id>
+    <title>A first look at artificial intelligence</title>
+    <link href="http://example.com/2023/10/20/2023-10-20/"/>
+    <id>http://example.com/2023/10/20/2023-10-20/</id>
     <published>2023-10-20T12:19:23.000Z</published>
-    <updated>2023-10-21T03:43:27.920Z</updated>
+    <updated>2023-10-21T03:53:44.718Z</updated>
     
-    <content type="html"><![CDATA[<h1>A first look at artificial intelligence</h1><h2 id="first-day">(first day)</h2><p>  Just contact with the content of <strong>artificial intelligence,</strong> often see artificial intelligence, machine learning, deep learning and neural networks of different terms, one by one are very cold, so stupid to distinguish in the end what kind of relationship between them, many times think that it is a thing of different expressions only, after reading some specific introductions only gradually have a general model.</p><p>  What we are currently able to achieve is generally referred to as <strong>“Narrow AI”</strong>. Weak AI is technology that can perform specific tasks as well as, or better than, a human. Examples include image classification on Pinterest, or face recognition on Facebook. These are examples of weak AI in practice. These technologies implement some specific localisation of human intelligence.</p><p>  <strong>Machine Learning (ML)</strong> is a multi-disciplinary cross-discipline involving probability theory, statistics, approximation theory, convex analysis, algorithmic complexity theory and other disciplines.<br>Machine Learning is the core of Artificial Intelligence, is the fundamental way to make computers intelligent, and its application across all fields of Artificial Intelligence, which mainly uses induction and synthesis rather than deduction.<br>At its most basic, machine learning uses algorithms to parse data, learn from it, and then make decisions and predictions about events in the real world.<br>Unlike traditional software programmes that are hard-coded to solve a specific task, machine learning uses large amounts of data to “train” the algorithms to learn how to do the task from the data.</p><p>  There is a difference between machine learning and <strong>deep learning</strong>, which is the ability of a computer’s algorithms to find information in data to learn some patterns, just like a human. Although deep learning is a type of machine learning, deep learning is the use of deep neural networks that process the model to be more complex, so that the model can understand the data more deeply.<br>Deep learning is a method of machine learning based on learning by characterising data. Deep learning is a new field in machine learning research motivated by the creation, simulation of neural networks for analytical learning in the human brain, which mimics the mechanisms of the human brain for interpreting data.</p><p>  <strong>Neural networks</strong> were designed to mimic the processing of the human brain, in the hope that they would operate according to the logic of the human brain (although the human brain is still not well studied as of yet). Neural networks have been around for many years, but are now largely unheard of. According to industry researchers at innov100, neural networks can simply be categorised as single-layer, two-layer, and multi-layer networks. Neural networks had very many problems before, the number of layers could not go too deep, there are too many parameters to be adjusted, the amount of sample data is too small and other problems. In short, it was a technology that was not well received before. Until 2006, Hinton published a paper in Science and related journals, first proposed the concept of “deep belief networks”.</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="first-day">(first day)</h2><p>  Just contact with the content of <strong>artificial intelligence,</strong> often see artificial intelligence, machine learning, deep learning and neural networks of different terms, one by one are very cold, so stupid to distinguish in the end what kind of relationship between them, many times think that it is a thing of different expressions only, after reading some specific introductions only gradually have a general model.</p><p>  What we are currently able to achieve is generally referred to as <strong>“Narrow AI”</strong>. Weak AI is technology that can perform specific tasks as well as, or better than, a human. Examples include image classification on Pinterest, or face recognition on Facebook. These are examples of weak AI in practice. These technologies implement some specific localisation of human intelligence.</p><p>  <strong>Machine Learning (ML)</strong> is a multi-disciplinary cross-discipline involving probability theory, statistics, approximation theory, convex analysis, algorithmic complexity theory and other disciplines.<br>Machine Learning is the core of Artificial Intelligence, is the fundamental way to make computers intelligent, and its application across all fields of Artificial Intelligence, which mainly uses induction and synthesis rather than deduction.<br>At its most basic, machine learning uses algorithms to parse data, learn from it, and then make decisions and predictions about events in the real world.<br>Unlike traditional software programmes that are hard-coded to solve a specific task, machine learning uses large amounts of data to “train” the algorithms to learn how to do the task from the data.</p><p>  There is a difference between machine learning and <strong>deep learning</strong>, which is the ability of a computer’s algorithms to find information in data to learn some patterns, just like a human. Although deep learning is a type of machine learning, deep learning is the use of deep neural networks that process the model to be more complex, so that the model can understand the data more deeply.<br>Deep learning is a method of machine learning based on learning by characterising data. Deep learning is a new field in machine learning research motivated by the creation, simulation of neural networks for analytical learning in the human brain, which mimics the mechanisms of the human brain for interpreting data.</p><p>  <strong>Neural networks</strong> were designed to mimic the processing of the human brain, in the hope that they would operate according to the logic of the human brain (although the human brain is still not well studied as of yet). Neural networks have been around for many years, but are now largely unheard of. According to industry researchers at innov100, neural networks can simply be categorised as single-layer, two-layer, and multi-layer networks. Neural networks had very many problems before, the number of layers could not go too deep, there are too many parameters to be adjusted, the amount of sample data is too small and other problems. In short, it was a technology that was not well received before. Until 2006, Hinton published a paper in Science and related journals, first proposed the concept of “deep belief networks”.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1&gt;A first look at artificial intelligence&lt;/h1&gt;
-&lt;h2 id=&quot;first-day&quot;&gt;(first day)&lt;/h2&gt;
-&lt;p&gt;  Just contact with the content of &lt;strong&gt;artificia</summary>
+    <summary type="html">&lt;h2 id=&quot;first-day&quot;&gt;(first day)&lt;/h2&gt;
+&lt;p&gt;  Just contact with the content of &lt;strong&gt;artificial intelligence,&lt;/strong&gt; often see artificial int</summary>
       
     
     
