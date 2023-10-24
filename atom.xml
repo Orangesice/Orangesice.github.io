@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-22T02:48:54.256Z</updated>
+  <updated>2023-10-24T13:11:33.989Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>总结（利用深度卷积神经网络进行图像网络分类）</title>
+    <link href="http://example.com/2023/10/22/2023-10-24/"/>
+    <id>http://example.com/2023/10/22/2023-10-24/</id>
+    <published>2023-10-22T03:38:17.000Z</published>
+    <updated>2023-10-24T13:11:33.989Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先，这篇论文介绍了卷积神经网络（CNN），整流性单元（ReLUs），通过这些结构以及一些方法（如在多个GPU上训练，局部响应正常化，重叠共用等）完成了他们模型的搭建。然后介绍了两种减少过度拟合的方法：</p><ul class="lvl-0"><li class="lvl-2">数据扩充</li><li class="lvl-2">一种名叫Dropout的方法（感兴趣可以去网上搜）</li></ul><p>最后介绍了深度学习的一些详细过程，以及得到的一些结果（包括在ILSVRC-2010和ILSVRC-2012中比赛的误差率。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;首先，这篇论文介绍了卷积神经网络（CNN），整流性单元（ReLUs），通过这些结构以及一些方法（如在多个GPU上训练，局部响应正常化，重叠共用等）完成了他们模型的搭建。然后介绍了两种减少过度拟合的方法：&lt;/p&gt;
+&lt;ul class=&quot;lvl-0&quot;&gt;
+&lt;li class=&quot;l</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>论文列表</title>
