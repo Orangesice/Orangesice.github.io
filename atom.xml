@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-24T13:11:33.989Z</updated>
+  <updated>2023-10-28T12:54:50.705Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>总结（利用深度递归神经网络将视频翻译成自然语言）</title>
+    <link href="http://example.com/2023/10/27/2023-10-27/"/>
+    <id>http://example.com/2023/10/27/2023-10-27/</id>
+    <published>2023-10-27T10:47:02.000Z</published>
+    <updated>2023-10-28T12:54:50.705Z</updated>
+    
+    <content type="html"><![CDATA[<p>在这项工作中，我们使用了深度递归网络（RNNs），该网络最近在使用长短期记忆（LSTM）, 使用了两层 LSTM（一个 LSTM 堆叠在另一个 LSTM 上）。RNNs 可以自然地与基于向量的表征（如图像和视频表征）相结合。Donahue 等人（2014 年）和 Vinyals 等人（2014 年）同时提出了该模型的多模态类似物，其架构使用视觉 convnet 对深度状态向量进行编码，并使用 LSTM 将向量解码为句子。这些模型的工作原理是首先对图像进行特征变换，生成一个固定维度的向量表示。然后，它们使用序列模型，特别是递归神经网络（RNN），将向量 &quot;解码 &quot;为句子（即单词序列）。在这项工作中，我们应用了将视觉向量 &quot;翻译 &quot;成英语句子的相同原理，并证明它在描述动态视频和静态图像时都能很好地发挥作用。在本文中，他们提出了一种视频描述模型，该模型在从像素到句子的整个流程中使用神经网络，并可对整个网络进行潜在的训练和调整。在广泛的实验评估中，他们发现与相关方法相比，他们的方法能生成更好的句子。不过，他们的方法在更好地利用视频中的时间信息方面还存在不足，这是未来工作的一个很好的方向。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在这项工作中，我们使用了深度递归网络（RNNs），该网络最近在使用长短期记忆（LSTM）, 使用了两层 LSTM（一个 LSTM 堆叠在另一个 LSTM 上）。RNNs 可以自然地与基于向量的表征（如图像和视频表征）相结合。Donahue 等人（2014 年）和 Vinya</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>总结（利用深度卷积神经网络进行图像网络分类）</title>
